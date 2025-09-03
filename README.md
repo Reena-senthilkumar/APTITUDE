@@ -50,6 +50,50 @@ Find the amount on ₹4,000 at 10% p.a. for 2 years, compounded annually.
 ________________________________________
 8️⃣ Average
 The average of 8 numbers is 15. If one number is removed, the average becomes 14. Find the removed number.
+📊 Percentages & Profit/Loss
+1. The price of sugar is increased by 25%. How much less sugar can be bought for the same money?
+2. A shopkeeper bought a bag for ₹800 and sold it for ₹1,040. Find his profit percentage.
+________________________________________
+⌛ Time & Work
+3. A can complete a work in 8 days, B in 12 days, and C in 16 days. If they work together, how long will it take to finish the work?
+4. A alone can do a piece of work in 15 days. B is 50% more efficient than A. How long will B take to do the same work?
+________________________________________
+🚰 Pipes & Cisterns
+5. Pipe A fills a tank in 6 hours, and Pipe B in 8 hours. If both are opened together, how long will it take to fill the tank?
+6. A pipe can fill a cistern in 12 hours, and an outlet pipe can empty it in 18 hours. If both pipes are opened, how long will it take to fill the cistern?
+________________________________________
+🚂 Time, Speed & Distance
+7. A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 48 minutes less. Find the speed of the train.
+8. A man rows 12 km downstream in 3 hours and returns in 6 hours. Find the speed of the boat in still water and the speed of the stream.
+________________________________________
+💰 Simple Interest & Compound Interest
+9. Find the SI on ₹2,000 at 6% p.a. for 4 years.
+10. Find the CI on ₹5,000 at 8% p.a. for 2 years, compounded annually.
+________________________________________
+➗ Ratio & Proportion
+11. The incomes of A, B, and C are in the ratio 3:7:4, and their expenses are in the ratio 4:3:5. If A saves ₹3,000, find the savings of B.
+12. The ratio of the present ages of a father and son is 5:2. After 10 years, the ratio will become 3:2. Find their present ages.
+________________________________________
+📈 Averages
+13. The average of 5 numbers is 27. If one number is excluded, the average becomes 25. Find the excluded number.
+14. The average age of 40 students is 15 years. If the teacher’s age is included, the average becomes 16 years. Find the teacher’s age.
+________________________________________
+📦 Mensuration
+15. Find the volume of a cuboid with dimensions 10 cm × 8 cm × 5 cm.
+16. The base radius of a cone is 7 cm and height is 24 cm. Find its slant height and total surface area.
+________________________________________
+⚖ Mixture & Alligation
+17. A 40 L mixture contains milk and water in the ratio 7:3. How much water must be added to make the ratio 3:2?
+18. A mixture of ₹60/kg tea and ₹80/kg tea is mixed in the ratio 2:3. Find the price per kg of the mixture.
+________________________________________
+🎲 Probability
+19. A card is drawn from a pack of 52 cards. Find the probability of drawing:
+(a) a red card
+(b) a king
+20. A die is thrown once. Find the probability of getting:
+(a) an even number
+(b) a number greater than 4
+
 ________________________________________
 9️⃣ Ratio & Proportion
 The ratio of boys to girls in a class is 7:5. If there are 36 students, find the number of boys.
