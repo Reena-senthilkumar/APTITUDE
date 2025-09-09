@@ -172,6 +172,66 @@ ________________________________________
 4️⃣ Speed, Time & Distance
 7.	A car travels from A to B at 60 km/h and returns from B to A at 40 km/h. Find the average speed for the whole journey.
 8.	A person can walk at 5 km/h and row a boat at 10 km/h. If he covers a distance of 30 km on land and 40 km by boat, how much time will he take in total?
+
+1 — Profit & Loss
+
+A trader buys an article for ₹1,400 and sells it for ₹1,610. What is his profit %?
+
+2 — Time & Distance
+
+A train 200 m long crosses a bridge of length 300 m in 30 seconds. Find its speed in km/h.
+
+3 — Time & Work
+
+A can do a job in 20 days and B in 30 days. They work together for 6 days, then A leaves. How many more days will B take to finish the job?
+
+4 — Percentages
+
+By what percent must a quantity be decreased so that after a 25% increase it returns to its original value?
+
+5 — Mixtures / Alligation
+
+How many litres of water must be added to 10 L of a 60% alcohol solution to make it a 40% alcohol solution?
+
+6 — Average
+
+The average of 5 numbers is 24. Four of them are 18, 30, 22 and 26. Find the fifth number.
+
+7 — Ratio
+
+If A : B = 3 : 5 and B : C = 2 : 7, find A : C.
+
+8 — Geometry (Mensuration)
+
+A right triangle has legs 6 cm and 8 cm. Find its area and hypotenuse.
+
+9 — Simple Interest
+
+What is the amount on ₹7,500 at 8% p.a. simple interest for 2 years?
+
+10 — Probability
+
+A bag has 3 red, 4 blue and 5 green balls. One ball is drawn at random. What is the probability it is blue or green? (Give fraction or decimal.)
+
+11 — Algebra
+
+Solve for x: 
+3
+𝑥
++
+5
+=
+2
+(
+𝑥
++
+8
+)
+3x+5=2(x+8).
+
+12 — Permutation / Counting
+
+How many different 4-letter “words” (arrangements) can be formed from the letters of the word PLAY (use each letter at most once)?
 ________________________________________
 5️⃣ Train
 9.	A train 120 m long passes a pole in 6 seconds. Find its speed in km/h
