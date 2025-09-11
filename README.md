@@ -515,5 +515,73 @@ ________________________________________
 5️⃣ Train
 9.	A train 120 m long passes a pole in 6 seconds. Find its speed in km/h
 
+Profit & Loss
 
+1. A shopkeeper buys an article for ₹2,400 and sells it at a gain of 12.5%. Find the selling price.
+
+
+
+Time & Distance
+
+2. A train 150 m long crosses a man standing on a platform in 12 seconds. Find its speed in km/h.
+
+
+
+Time & Work
+
+3. A can do a piece of work in 15 days, B in 25 days. They work together for 5 days, then A leaves. How many more days will B take to finish the work?
+
+
+
+Percentages
+
+4. 40% of a number is 112. Find the number.
+
+
+
+Mixtures
+
+5. A container has 30 L of milk. 6 L of milk is removed and replaced by water. Again, 6 L of mixture is removed and replaced by water. Find the final quantity of milk left.
+
+
+
+Averages
+
+6. The average of 7 numbers is 45. If one number is removed, the average becomes 42. Find the removed number.
+
+
+
+Ratio
+
+7. If A : B = 4 : 7 and B : C = 2 : 5, find A : C.
+
+
+
+Mensuration
+
+8. The circumference of a circle is 88 cm. Find its radius. (Take π = 22/7)
+
+
+
+Simple Interest
+
+9. Find the simple interest on ₹10,000 at 9% p.a. for 3 years.
+
+
+
+Probability
+
+10. A card is drawn at random from a pack of 52 cards. What is the probability that it is (i) a heart, (ii) not a black card?
+
+
+
+Algebra
+
+11. Solve for x: .
+
+
+
+Permutation
+
+12. How many different 3-digit numbers can be formed from the digits 2, 4, 6, 8 (without repetition)?
 
