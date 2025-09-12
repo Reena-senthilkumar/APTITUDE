@@ -584,4 +584,128 @@ Algebra
 Permutation
 
 12. How many different 3-digit numbers can be formed from the digits 2, 4, 6, 8 (without repetition)?
+Profit & Loss
 
+1. A shopkeeper buys an article for ₹2,400 and sells it at a gain of 12.5%. Find the selling price.
+
+
+
+Time & Distance
+
+2. A train 150 m long crosses a man standing on a platform in 12 seconds. Find its speed in km/h.
+
+
+
+Time & Work
+
+3. A can do a piece of work in 15 days, B in 25 days. They work together for 5 days, then A leaves. How many more days will B take to finish the work?
+
+
+
+Percentages
+
+4. 40% of a number is 112. Find the number.
+
+
+
+Mixtures
+
+5. A container has 30 L of milk. 6 L of milk is removed and replaced by water. Again, 6 L of mixture is removed and replaced by water. Find the final quantity of milk left.
+
+
+
+Averages
+
+6. The average of 7 numbers is 45. If one number is removed, the average becomes 42. Find the removed number.
+
+
+
+Ratio
+
+7. If A : B = 4 : 7 and B : C = 2 : 5, find A : C.
+
+
+
+Mensuration
+
+8. The circumference of a circle is 88 cm. Find its radius. (Take π = 22/7)
+
+
+
+Simple Interest
+
+9. Find the simple interest on ₹10,000 at 9% p.a. for 3 years.
+
+
+
+Probability
+
+10. A card is drawn at random from a pack of 52 cards. What is the probability that it is (i) a heart, (ii) not a black card?
+
+
+
+Algebra
+
+11. Solve for x: .
+
+
+
+Permutation
+
+12. How many different 3-digit numbers can be formed from the digits 2, 4, 6, 8 (without repetition)?
+1. CI (Compound Interest)
+The CI on ₹10,000 at 10% per annum for 2 years (compounded annually) is?
+
+
+---
+
+2. Discount
+Marked Price = ₹2,000, Discount = 20%. Find the Selling Price.
+
+
+---
+
+3. Pipes & Cisterns
+Pipe A can fill a tank in 12 hrs, Pipe B can fill in 15 hrs. Together they work for 4 hrs, then B closed. In how many more hrs will A fill the rest?
+
+
+---
+
+4. Boat & Stream
+A boat goes 24 km downstream in 3 hrs and the same distance upstream in 6 hrs. Find the boat’s speed in still water.
+
+
+---
+
+5. Time & Work
+A can complete a work in 18 days, B in 24 days. They work together for 4 days, then A leaves. In how many days will B finish the rest?
+
+
+---
+
+6. Partnership (Business)
+A invests ₹12,000 and B ₹18,000. After 6 months, C joins with ₹24,000. At the end of 1 year, find the ratio of profit.
+
+
+---
+
+7. Profit & Loss
+A trader buys 40 pens for ₹600. He sells them at ₹18 each. Find his profit %.
+
+
+---
+
+8. Mixture
+A container has 60 L of milk. 12 L is replaced by water, and the operation is repeated once more. Find the final quantity of milk in the mixture.
+
+
+---
+
+9. Train Problem
+A train 180 m long passes a pole in 9 sec. Find its speed in km/h.
+
+
+---
+
+10. Average
+The average of 10 numbers is 25. If one number 40 is added, what is the new average?
