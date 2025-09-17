@@ -1,78 +1,61 @@
 🚰 Pipes & Cisterns – Alternate / Advanced
 
 Q1. Pipe A fills a tank in 6 hrs, Pipe B fills in 8 hrs. They are opened alternately, A first, then B. In how many hours will the tank be full?
-
+________________________________________
 Q2. A pipe can fill a tank in 10 min, another can empty it in 15 min. They are opened alternately, the filler first, then the emptier, and so on. Find the time taken to fill the tank.
-
-Q3. Three pipes A, B, C can fill a cistern in 12, 15, and 20 hrs respectively. A is opened alone for 1 hr, then B for 1 hr, then C for 1 hr, and the process repeats. In how many hrs will the tank be full?
-
+________________________________________
+Q3. Three pipes A, B, C can fill a cistern in 12, 15, and 20 hrs respectively. A is opened alone for 1 hr, then B for 1 hr, then C for
+ 1 hr, and the process repeats. In how many hrs will the tank be full?
+________________________________________
 👷 Time & Work – Alternate Work
 
 Q4. A can complete a work in 12 days, B in 18 days. They work on alternate days, A starting first. Find the time to finish the work.
-
+________________________________________
 Q5. A and B can finish a job in 15 and 20 days respectively. If they work on alternate days, starting with A, in how many days will the work be completed?
-
+________________________________________
 Q6. A can do a piece of work in 10 days, B in 12 days. They work together for 1 day, then A leaves, and B works alone on the second day, then A works alone on the third day, then B again on fourth day… and so on. In how many days will the work be completed?
-
+________________________________________
 🛶 Bonus (Mixed Concept)
 
 Q7. A and B can fill a cistern in 12 and 16 minutes respectively. They are opened together but after every 4 minutes A is closed for 2 minutes while B works continuously. Find the total time taken to fill the cistern.
-
+________________________________________
 Hard Aptitude Set
 
 1 — Alternating pipes (unequal durations)
 Pipe A fills a tank in 9 minutes, pipe B in 12 minutes. They operate in the following repeating pattern: A runs for 2 minutes, then B runs for 3 minutes, then A for 2, then B for 3, … How long to fill the tank?
-
+________________________________________
 2 — Leak + intermittent opening
 A pipe fills a cistern in 8 hours. A leak can empty the full cistern in 20 hours. The pipe is opened for 1 hour, then both (pipe + leak) are kept closed for 1 hour, then pipe open 1 hour, closed 1 hour, and so on. How many hours to fill the cistern?
-
+________________________________________
 3 — Three workers, cyclic schedule
 A, B, C can do a job in 10, 12, 15 days respectively. They work in cycles: Day1 — A & B; Day2 — B & C; Day3 — C & A; then repeat. In how many days will the job be finished?
-
+________________________________________
 4 — Train + moving platforms
 Train P of length 200 m crosses a platform and takes 30 s. The same train crosses a stationary 100 m goods wagon in 12 s. Find the speed of the train (km/h) and the length of the platform.
-
+________________________________________
 5 — Iterative replacement (hard)
 A tank contains 100 L of pure wine. 20 L is drawn out and replaced with water. This operation is repeated 3 more times (so total 4 replacements). What is the quantity of wine left? (Give exact fraction and approximate decimal to 3 d.p.)
-
+________________________________________
 6 — Compound interest (non-integer rate & compounding periods)
 An amount P is invested at 12% per annum compounded quarterly. After 3 years the amount is ₹A. Express CI (compound interest earned) in terms of P and A; then compute A and CI when P = ₹20,000.
-
+________________________________________
 7 — Successive discounts & reverse-engineer CP
 An article is first marked up by 40% on cost and then two successive discounts of 25% and 10% are given on the marked price. If the final selling price is ₹10,125, find the cost price.
-
+________________________________________
 8 — Advanced permutations (restrictions)
 From the letters of the word MISSISSIPPI (11 letters with repeats) how many distinct 4-letter "words" (arrangements) can you form that contain at least two S's? (Order matters.)
-
+________________________________________
 9 — Probability with conditional selection
 A box has 5 red, 4 blue, 3 green balls. Two balls are drawn one after the other without replacement. Find the probability that the second ball is green given that the first ball drawn was not red.
-
+________________________________________
 10 — Mixture with desired ratio and cost constraint
 You need 100 kg of a mixture costing ₹48/kg by mixing two varieties costing ₹40/kg and ₹60/kg. However, at most 30 kg of the ₹60/kg variety is available. Can you make the 100 kg mixture at ₹48/kg with this availability constraint? If yes — how much of each; if no — explain why.
-
-11 — Quadratic / Age system
-Two positive integers 
-𝑥
-x and 
-𝑦
-y satisfy: 
-𝑥
-+
-𝑦
-=
-25
-x+y=25 and 
-𝑥
-𝑦
-=
-144
-xy=144. Find x and y. (Hint: solve quadratic.)
-
+________________________________________
 12 — Mensuration (frustum + cylinder combo)
 A solid is formed by placing a right circular cone (base radius 6 cm, height 8 cm) on top of a cylinder of radius 6 cm and height 10 cm (cone base sits exactly on cylinder top). Find the total volume of the solid (use 
 𝜋
 π as symbol; also give decimal approx to 2 d.p.).
-
+________________________________________
 1️⃣ Percentage
 A shopkeeper marks an article at ₹1,200 and allows a discount of 20%. If he still makes a profit of ₹80, find the cost price.
 ________________________________________
