@@ -1,5 +1,6 @@
-Aptitude Problem Set — 50 Questions
-A. Pipes & Cisterns / Alternate Work (10)
+###Aptitude Problem Set — 50 Questions
+
+##A. Pipes & Cisterns / Alternate Work (10)
 
 Pipe A fills a tank in 6 min, Pipe B in 8 min. They are opened alternately 1 min each. Find time to fill the tank.
 
@@ -22,7 +23,7 @@ A fills in 8 hr, B fills in 12 hr. Open pattern: A 1 hr, B 2 hr… Find time to 
 Pipe A fills a tank in 6 hr, B empties in 9 hr. Alternate working: A 1 hr, B 1 hr, repeat. Find total fill time.
 ________________________________________
 
-B. Time & Work — Complex / Patterns (10)
+##B. Time & Work — Complex / Patterns (10)
 
 A can finish a job in 10 days, B in 15 days. They work day-wise alternately, A starts. Find total days.
 
@@ -45,7 +46,7 @@ Two men can do a work in 30 & 45 days. They alternate: 2 days A, 1 day B. Find t
 A,B,C can do work in 10,20,30 days. Work pattern: A alone 1 day, B alone 1 day, C alone 1 day… Find completion time.
 ________________________________________
 
-C. Mixtures & Alligation (6)
+##C. Mixtures & Alligation (6)
 
 Mix 3 varieties of sugar: 30,50,80 ₹/kg. Total 120 kg, cost 56 ₹/kg. Find one possible solution.
 
@@ -60,7 +61,7 @@ A merchant mixes two varieties of rice: 10 ₹/kg & 12 ₹/kg. Desired cost 11.2
 80 L of 30% solution, 20 L removed & replaced by 50% solution. Find final %.
 ________________________________________
 
-D. Trains & Relative Motion (5)
+##D. Trains & Relative Motion (5)
 
 Train 150 m crosses platform in 12 s at 72 km/h. Find platform length.
 
@@ -73,7 +74,7 @@ Train 200 m crosses 250 m stationary wagon in 15 s. Find train speed.
 Two trains of lengths 180 m & 220 m run in same direction. Relative speed = 30 km/h. Time to cross = 24 s. Find speeds.
 ________________________________________
 
-E. Probability & Combinations (5)
+##E. Probability & Combinations (5)
 
 Box: 5R,4B,3G. Two balls drawn without replacement. P(second green | first not red)?
 
@@ -96,7 +97,7 @@ Profit 15% on cost ₹8,500. Find SP.
 
 Discount 12% on MP ₹15,000. Find SP.
 ________________________________________
-G. Algebra / Numbers (5)
+##G. Algebra / Numbers (5)
 
 Solve x² - 14x + 45 = 0.
 
@@ -109,7 +110,7 @@ Three numbers in AP: sum = 45, product = 520. Find numbers.
 Solve 2x + 3y = 12, x - y = 1.
 ________________________________________
 
-H. Mensuration / Geometry (5)
+##H. Mensuration / Geometry (5)
 
 Cylinder radius 7 cm, height 10 cm. Volume?
 
@@ -122,7 +123,7 @@ Frustum: top radius 4 cm, bottom 6 cm, height 10 cm. Volume?
 Solid: cone radius 6 cm, height 8 cm on cylinder radius 6 cm, height 10 cm. Volume?
 ________________________________________
 
-🚰 Pipes & Cisterns – Alternate / Advanced
+##🚰 Pipes & Cisterns – Alternate / Advanced
 
 Q1. Pipe A fills a tank in 6 hrs, Pipe B fills in 8 hrs. They are opened alternately, A first, then B. In how many hours will the tank be full?
 ________________________________________
