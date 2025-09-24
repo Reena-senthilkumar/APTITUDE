@@ -1,3 +1,119 @@
+Aptitude Problem Set — 50 Questions
+A. Pipes & Cisterns / Alternate Work (10)
+
+Pipe A fills a tank in 6 min, Pipe B in 8 min. They are opened alternately 1 min each. Find time to fill the tank.
+
+A tank can be filled by A in 10 hr, B in 15 hr. They work in turn, starting with A, each for 2 hr. Find total time.
+
+Pipe fills in 9 hr, a leak empties in 36 hr. The pipe is open 2 hr, then closed 1 hr (leak works during closed hour). Find total fill time.
+
+Two pipes fill a tank in 12 and 15 min. They are opened alternately 1 min each, faster first. Find total fill time.
+
+Three pipes A,B,C fill a tank in 8, 12, 16 hr. They work in cycles: A 1 hr, B 1 hr, C 1 hr… Find total fill time.
+
+Pipe A fills in 10 min, B in 12 min, C in 15 min. Open pattern: A 2 min, B 2 min, C 2 min. Tank = 1. Find fill time.
+
+Two workers A and B can do a work in 12 and 18 days. They work on alternate days, A first. Find completion time.
+
+A can do a work in 15 days, B in 20 days. They work half-day alternately. Find total days.
+
+A fills in 8 hr, B fills in 12 hr. Open pattern: A 1 hr, B 2 hr… Find time to fill.
+
+Pipe A fills a tank in 6 hr, B empties in 9 hr. Alternate working: A 1 hr, B 1 hr, repeat. Find total fill time.
+
+B. Time & Work — Complex / Patterns (10)
+
+A can finish a job in 10 days, B in 15 days. They work day-wise alternately, A starts. Find total days.
+
+Three workers A,B,C: 8,12,24 days. Work pattern: Day1 A, Day2 B, Day3 C… Find total days.
+
+A & B together can do a job in 9 days. A is twice as fast as B. Work pattern: Day1 both, Day2 only A… Find total days.
+
+A can do work in 12 days, B in 16 days. Alternate working: 4 hr/day each. Find days to complete.
+
+Two people A,B can complete in 18 & 24 days. They work in 3-hr shifts alternately. Find total time.
+
+A,B,C can do a work in 10,15,20 days. Work pattern: A&B 1 day, B&C 1 day, C&A 1 day… Find completion time.
+
+A can do a job in 8 days, B in 12 days. They alternate half-days. Find completion.
+
+A fills tank in 6 hr, B in 8 hr, C empties in 12 hr. Alternating cycles: A&B 1 hr each, C 1 hr. Find total fill time.
+
+Two men can do a work in 30 & 45 days. They alternate: 2 days A, 1 day B. Find total time.
+
+A,B,C can do work in 10,20,30 days. Work pattern: A alone 1 day, B alone 1 day, C alone 1 day… Find completion time.
+
+C. Mixtures & Alligation (6)
+
+Mix 3 varieties of sugar: 30,50,80 ₹/kg. Total 120 kg, cost 56 ₹/kg. Find one possible solution.
+
+90 L milk, remove 15 L & replace with water. Repeat 2 times. Find milk left.
+
+Vessel contains alcohol & water in ratio 7:5. Remove 12 L & add water to maintain 1:1 ratio. Find original quantity.
+
+Two solutions: 20% & 50% alcohol. Mix 60 L solution at 35%. Find volumes of each solution.
+
+A merchant mixes two varieties of rice: 10 ₹/kg & 12 ₹/kg. Desired cost 11.2 ₹/kg. Find ratio.
+
+80 L of 30% solution, 20 L removed & replaced by 50% solution. Find final %.
+
+D. Trains & Relative Motion (5)
+
+Train 150 m crosses platform in 12 s at 72 km/h. Find platform length.
+
+Two trains, lengths 120 m & 180 m, opposite directions, cross in 9 s. Speed of second train?
+
+Train passes a man in 12 s & platform in 36 s. Find train length & speed.
+
+Train 200 m crosses 250 m stationary wagon in 15 s. Find train speed.
+
+Two trains of lengths 180 m & 220 m run in same direction. Relative speed = 30 km/h. Time to cross = 24 s. Find speeds.
+
+E. Probability & Combinations (5)
+
+Box: 5R,4B,3G. Two balls drawn without replacement. P(second green | first not red)?
+
+5 coins tossed. P(at least 3 heads)?
+
+From digits 1–5, 4-digit numbers without repetition divisible by 5. How many?
+
+Arrange letters of “MISSISSIPPI”. How many 4-letter words with ≥2 S?
+
+Box has 6 white & 4 black balls. Pick 2 balls. P(exactly 1 white)?
+
+F. CI / Discount / Profit (4)
+
+P = ₹20,000 at 12% p.a. quarterly compounding for 3 years. Find CI & amount.
+
+Article marked up 50%, 2 successive discounts 20% & 10%, SP = 10,125. Find CP.
+
+Profit 15% on cost ₹8,500. Find SP.
+
+Discount 12% on MP ₹15,000. Find SP.
+
+G. Algebra / Numbers (5)
+
+Solve x² - 14x + 45 = 0.
+
+Two numbers sum = 25, product = 144. Find numbers.
+
+Solve 1/x + 1/y = 1/6, x-y=2.
+
+Three numbers in AP: sum = 45, product = 520. Find numbers.
+
+Solve 2x + 3y = 12, x - y = 1.
+
+H. Mensuration / Geometry (5)
+
+Cylinder radius 7 cm, height 10 cm. Volume?
+
+Cone radius 6 cm, height 8 cm. Volume?
+
+Sphere radius 5 cm. Surface area?
+
+Frustum: top radius 4 cm, bottom 6 cm, height 10 cm. Volume?
+
+Solid: cone radius 6 cm, height 8 cm on cylinder radius 6 cm, height 10 cm. Volume?
 🚰 Pipes & Cisterns – Alternate / Advanced
 
 Q1. Pipe A fills a tank in 6 hrs, Pipe B fills in 8 hrs. They are opened alternately, A first, then B. In how many hours will the tank be full?
