@@ -20,6 +20,7 @@ A can do a work in 15 days, B in 20 days. They work half-day alternately. Find t
 A fills in 8 hr, B fills in 12 hr. Open pattern: A 1 hr, B 2 hr… Find time to fill.
 
 Pipe A fills a tank in 6 hr, B empties in 9 hr. Alternate working: A 1 hr, B 1 hr, repeat. Find total fill time.
+________________________________________
 
 B. Time & Work — Complex / Patterns (10)
 
@@ -42,6 +43,7 @@ A fills tank in 6 hr, B in 8 hr, C empties in 12 hr. Alternating cycles: A&B 1 h
 Two men can do a work in 30 & 45 days. They alternate: 2 days A, 1 day B. Find total time.
 
 A,B,C can do work in 10,20,30 days. Work pattern: A alone 1 day, B alone 1 day, C alone 1 day… Find completion time.
+________________________________________
 
 C. Mixtures & Alligation (6)
 
@@ -56,6 +58,7 @@ Two solutions: 20% & 50% alcohol. Mix 60 L solution at 35%. Find volumes of each
 A merchant mixes two varieties of rice: 10 ₹/kg & 12 ₹/kg. Desired cost 11.2 ₹/kg. Find ratio.
 
 80 L of 30% solution, 20 L removed & replaced by 50% solution. Find final %.
+________________________________________
 
 D. Trains & Relative Motion (5)
 
@@ -68,6 +71,7 @@ Train passes a man in 12 s & platform in 36 s. Find train length & speed.
 Train 200 m crosses 250 m stationary wagon in 15 s. Find train speed.
 
 Two trains of lengths 180 m & 220 m run in same direction. Relative speed = 30 km/h. Time to cross = 24 s. Find speeds.
+________________________________________
 
 E. Probability & Combinations (5)
 
@@ -80,6 +84,7 @@ From digits 1–5, 4-digit numbers without repetition divisible by 5. How many?
 Arrange letters of “MISSISSIPPI”. How many 4-letter words with ≥2 S?
 
 Box has 6 white & 4 black balls. Pick 2 balls. P(exactly 1 white)?
+________________________________________
 
 F. CI / Discount / Profit (4)
 
@@ -90,7 +95,7 @@ Article marked up 50%, 2 successive discounts 20% & 10%, SP = 10,125. Find CP.
 Profit 15% on cost ₹8,500. Find SP.
 
 Discount 12% on MP ₹15,000. Find SP.
-
+________________________________________
 G. Algebra / Numbers (5)
 
 Solve x² - 14x + 45 = 0.
@@ -102,6 +107,7 @@ Solve 1/x + 1/y = 1/6, x-y=2.
 Three numbers in AP: sum = 45, product = 520. Find numbers.
 
 Solve 2x + 3y = 12, x - y = 1.
+________________________________________
 
 H. Mensuration / Geometry (5)
 
@@ -114,6 +120,8 @@ Sphere radius 5 cm. Surface area?
 Frustum: top radius 4 cm, bottom 6 cm, height 10 cm. Volume?
 
 Solid: cone radius 6 cm, height 8 cm on cylinder radius 6 cm, height 10 cm. Volume?
+________________________________________
+
 🚰 Pipes & Cisterns – Alternate / Advanced
 
 Q1. Pipe A fills a tank in 6 hrs, Pipe B fills in 8 hrs. They are opened alternately, A first, then B. In how many hours will the tank be full?
