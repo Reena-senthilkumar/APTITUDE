@@ -1,3 +1,12 @@
+<pre>
+🌟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌟
+📘 This repo holds all the questions I solve daily to sharpen my analytical thinking and get ready for top company placements.
+🎯 My goal is consistency, clarity, and continuous improvement.
+🌟━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🌟
+</pre>
+
+
+
 ###Aptitude Problem Set — 50 Questions
 
 ##A. Pipes & Cisterns / Alternate Work (10)
