@@ -6,6 +6,95 @@
 </pre>
 
 
+1. Joining Late (Partnership)
+A invests ₹60,000 for the whole year. B joins after 3 months with ₹40,000. At the end of the year, the profit is ₹50,000. Find the share of each.
+
+2. Leaving Early (Partnership)
+P invests ₹80,000. Q invests ₹1,20,000 but withdraws his money after 9 months. The total profit at year’s end is ₹56,000. Find each partner’s share.
+
+3. Salary + Profit Sharing
+X and Y start a business with capitals ₹1,50,000 and ₹1,00,000 respectively. They agree that X will get a monthly salary of ₹2,000 for managing the business. Profit at the end of the year is ₹84,000. Find each person’s share in the profit.
+
+4. Commission on Sales
+A salesman is paid a monthly salary of ₹8,000 plus a commission of 5% on sales above ₹1,00,000. If his total monthly earnings are ₹14,500, find the value of sales made above ₹1,00,000.
+
+5. Salary + Commission
+A manager gets ₹20,000 per month as fixed salary and 2% commission on monthly sales. If his total earnings for a month are ₹32,000, find the total sales for that month.
+________________________________________
+
+🌟 FULL APTITUDE REVISION — 20 QUESTIONS (ALL TOPICS)
+
+1. Number System
+Find the remainder when 3579 is divided by 11.
+
+2. HCF & LCM
+Find the LCM of 18, 24, and 30.
+
+3. Ratio & Proportion
+If A : B = 3 : 5 and B : C = 10 : 12, find A : B : C.
+
+4. Percentage
+A number is increased by 20% and then decreased by 25%.
+Find the net percentage increase/decrease.
+
+5. Profit & Loss
+A shopkeeper sells an article for ₹720 and gains 20%.
+Find the Cost Price.
+
+6. Simple Interest
+Find SI on ₹6000 at 10% per annum for 3 years.
+
+7. Compound Interest
+Find the amount on ₹10,000 at 10% for 2 years (compounded yearly).
+
+8. Average
+The average of 7 numbers is 24. If one number 40 is removed, find new average.
+
+9. Time & Work
+A alone can do a work in 15 days and B alone in 20 days.
+How long if both work together?
+
+10. Pipes & Cisterns
+A pipe fills a tank in 12 hours. Another pipe empties it in 18 hours.
+If both opened together, how long to fill the tank?
+
+11. Time–Speed–Distance
+A man walks 30 km at 5 km/h and returns at 6 km/h.
+Find average speed.
+
+12. Train Problems
+A 200 m train runs at 54 km/h.
+How long to cross a man standing on the track?
+
+13. Boats & Streams
+A man rows downstream at 10 km/h and upstream at 6 km/h.
+Find speed of boat in still water.
+
+14. Mixture & Alligation
+In a mixture of 60 L, milk and water ratio is 7:3.
+How much water must be added to make the ratio 7:5?
+
+15. Partnership
+A invests ₹50,000. B invests ₹30,000 after 4 months.
+Find ratio of profits at end of year.
+
+16. Permutation
+How many ways to arrange the letters of the word "LEVEL"?
+
+17. Combination
+From 8 persons, in how many ways can we select a committee of 3?
+
+18. Probability
+A die is rolled once.
+Find probability of getting a number greater than 3.
+
+19. Reasoning – Missing Number
+Find the missing number:
+6 → 36
+7 → 49
+9 → 81
+10 → ?
+________________________________________
 
 ###Aptitude Problem Set — 50 Questions
 
